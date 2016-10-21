@@ -10,6 +10,10 @@ namespace GitHubTest3Project
     {
         static void Main(string[] args)
         {
+
+            //A comment in the program
+
+            //Another comment (first commit after initial one)
         }
     }
 }
