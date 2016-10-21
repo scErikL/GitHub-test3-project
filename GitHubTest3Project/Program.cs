@@ -16,6 +16,8 @@ namespace GitHubTest3Project
             //Another comment (first commit after initial one)
 
             //Second commit after intial one.
+
+            //Tredje commit som ska upp till github.
         }
     }
 }
