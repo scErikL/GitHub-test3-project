@@ -22,6 +22,14 @@ namespace GitHubTest3Project
             //Feature_filewriting1.1
 
             //Lite mer feature_filewriting..
+
+            
+        }
+
+        static void HelloWorld()
+        {
+
+            Console.WriteLine("Hello world");
         }
     }
 }
