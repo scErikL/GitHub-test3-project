@@ -14,6 +14,8 @@ namespace GitHubTest3Project
             //A comment in the program
 
             //Another comment (first commit after initial one)
+
+            //Second commit after intial one.
         }
     }
 }
